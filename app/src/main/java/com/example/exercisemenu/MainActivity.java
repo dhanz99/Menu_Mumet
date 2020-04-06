@@ -39,7 +39,7 @@ public class MainActivity extends AppCompatActivity {
                 finish();
                 }else {
                 AlertDialog.Builder builder = new AlertDialog.Builder(MainActivity.this);
-                builder.setMessage("Usernaem atau Password Anda Salah !")
+                builder.setMessage("Username atau Password Anda Salah !")
                         .setNegativeButton("Coba Lagi", null).create().show();
                 }
             }
