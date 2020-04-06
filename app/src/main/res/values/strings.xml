@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Exercise Menu</string>
+    <string name="title">LOGIN USER</string>
+    <string name="user">username</string>
+    <string name="pass">password</string>
+    <string name="lgn">login</string>
+    <string name="jdl2">Menu Hitung Bangun Datar</string>
+
+</resources>
