@@ -53,7 +53,7 @@ public class Menu extends Activity {
                         if (item.getItemId() == R.id.dua) {
                             startActivity(toDua);
                         }
-                        return false;
+                        return true;
                     }
                 });
 
